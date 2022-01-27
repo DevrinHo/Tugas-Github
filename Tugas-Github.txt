@@ -4,3 +4,4 @@ Tugas Github
 - Tanggal xx minimal sudah x video selesai ditonton
 - Setelah mengerjakan Tugas Video Github, tonton video Laravel di Channel UNPAS
 - Jelaskan mengenai Github menggunakan kata-kata sendiri di doc word
+- SS setiap tahap
