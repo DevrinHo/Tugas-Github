@@ -1,7 +1,7 @@
 Tugas Github
 - Kerjakan 13 Video Github UNPAS
 - Deadline tanggal 31 Januari 2022
-- Tanggal xx minimal sudah x video selesai ditonton
 - Setelah mengerjakan Tugas Video Github, tonton video Laravel di Channel UNPAS
 - Jelaskan mengenai Github menggunakan kata-kata sendiri di doc word
 - SS setiap tahap
+- Kumpulkan sesuai rencana
